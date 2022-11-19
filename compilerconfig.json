@@ -1,0 +1,10 @@
+﻿[
+  {
+    "outputFile": "Asset/css/GioiThieu.css",
+    "inputFile": "Asset/css/GioiThieu.scss"
+  },
+  {
+    "outputFile": "Asset/css/TrangConChiTiet.css",
+    "inputFile": "Asset/css/TrangConChiTiet.scss"
+  }
+]

@@ -1,0 +1,43 @@
+﻿body {
+    .bananer {
+        border: 1px solid #2525;
+        width: 100%;
+        margin-top: 20px;
+
+        .bananer-img {
+            height: 400px;
+
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+
+    .Content {
+        margin: 20px;
+        margin-top: 450px;
+
+        .header {
+            border-bottom: 3px solid #bfe0e3;
+
+            h2 {
+                transition: 0.5s;
+            }
+
+            h2:hover {
+                color: var(--main-color);
+            }
+        }
+
+        .paragrap {
+            margin-right: 30px;
+            margin-left: 30px;
+            margin-top: 20px;
+            text-align: justify;
+            font-size: 1.2rem;
+        }
+    }
+
+
+}

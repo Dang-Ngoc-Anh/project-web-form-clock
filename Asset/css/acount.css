@@ -1,0 +1,100 @@
+/*  from ??ng ký ??ng  nh?p ----------------------------------------------------------------------------------*/
+.from-login, .from-signUp {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.5);
+    z-index : 1;
+}
+
+.register {
+    width: 35%;
+    background-color: #ffffff;
+    text-align: center;
+    padding: 40px;
+    border: 1px solid #2525;
+    border-radius: 8px;
+    position: relative;
+}
+
+    .register .fa-close {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: 20px;
+        right: 20px;
+        background: transparent;
+        font-size: 20px;
+        background-color: rgb(219, 218, 218);
+        border: 1px solid #2525;
+        border-radius: 50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+        .register .fa-close:hover {
+            cursor: pointer;
+            color: white;
+            background-color: var(--main-color);
+        }
+
+
+.control {
+    position: relative;
+    width: 100%;
+    margin-top: 15px;
+}
+
+    .control input {
+        background-color: white;
+        width: 90%;
+        height: 3rem;
+        outline: none;
+        border: none;
+        font-size: 1.1rem;
+        border-bottom: 2px solid var(--main-color);
+
+    }
+
+        .control input:hover {
+            border-bottom: 2px solid green;
+        }
+    small {
+        position: absolute;
+        transition: 0.5s;
+        color: red;
+        bottom: -16px;
+        left: 30px;
+        z-index: -10;
+        visibility: hidden;
+    }
+
+.sccess button {
+    margin-top: 30px;
+    width: 60%;
+    height: 50px;
+    background: rgb(27, 114, 169);
+    color: white;
+    font-weight: bold;
+    font-size: 1.4rem;
+    border: 2px solid #2525;
+    border-radius: 35px;
+    box-shadow: var(--light-shadow);
+}
+
+    .sccess button:hover {
+        background: rgba(27, 114, 169, 0.8);
+        cursor: pointer;
+    }
+
+
+.showStringErr {
+    visibility: visible;
+    z-index: 10;
+}

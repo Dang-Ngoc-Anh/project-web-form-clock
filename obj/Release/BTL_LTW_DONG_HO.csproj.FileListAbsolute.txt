@@ -1,0 +1,2 @@
+D:\BTL_LTW\BTL_LTW_DONG_HO\obj\Release\BTL_LTW_DONG_HO.csproj.AssemblyReference.cache
+D:\BTL_LTW\BTL_LTW_DONG_HO\obj\Release\BTL_LTW_DONG_HO.csproj.CoreCompileInputs.cache
