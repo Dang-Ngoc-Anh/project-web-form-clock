@@ -10,7 +10,7 @@
             <asp:ListView ID="DongHoNu1" runat="server">
                 <ItemTemplate>
                         <div class="product-box-item">
-                            <a href="TrangChiTiet.aspx? id = <%# Eval("Id")%> ">
+                            <a href="TrangChiTiet.aspx?id=<%#Eval("Id")%> ">
                                 <div class="product-img">
                                     <img src="<%# Eval("Images") %>" />
                                 </div>

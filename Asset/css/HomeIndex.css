@@ -1,11 +1,11 @@
 ﻿
 
-.body-home{
+.body-home {
     width: 100%;
     height: 100vh;
     display: flex;
     position: absolute;
-    overflow:auto;
+    overflow: auto;
 }
 .bananer {
     position: absolute;
@@ -35,6 +35,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 
 
@@ -74,7 +75,6 @@ a{
 .product-link {
     position: absolute;
     margin-top: 500px;
-
 }
 
 .product-box {
