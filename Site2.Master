@@ -47,7 +47,8 @@
                     </div>
                 </div>
                 <div class="cart">
-                    <i class="fa-solid fa-cart-shopping"></i>
+                    <a href="cart.aspx"><i class="fa-solid fa-cart-shopping"></i></a>
+                    
                 </div>
             </div>
         </div>
@@ -129,27 +130,6 @@
 
     <!-- sidebar -->
 
- <div class="body-home">
-        <div class="sidebar">
-            <h3>Menu</h3>
-            <i class="fas fa-close"></i>
-            <div class="sidebar-link">
-                <a href="ThuongHieu.aspx">Về watch </a>
-            </div>
-            <div class="sidebar-link">
-                <a href="ThuongHieu.aspx">Thương hiệu</a>
-            </div>
-            <div class="sidebar-link">
-                <a href="DongHoNam.aspx">Đồng hồ nam</a>
-            </div>
-            <div class="sidebar-link">
-                <a href="DongHoNu.aspx">Đồng hồ nữ</a>
-            </div>
-            <div class="sidebar-link">
-                <a href="DongHoNam.aspx">Phụ kiện</a>
-            </div>
-        </div>
-</div>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>
          <footer>
@@ -180,5 +160,6 @@
     <script src="Asset/js/DangKy.js"></script>
     <script src="Asset/js/DangNhap.js"></script>
     <script src="Asset/js/homeIndex.js"></script>
+
 </body>
 </html>

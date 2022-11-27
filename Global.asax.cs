@@ -51,7 +51,7 @@ namespace BTL_LTW_DONG_HO
 
         protected void Session_Start(object sender, EventArgs e)
         {
-
+            Session["login"] = 0;
         }
 
         protected void Application_BeginRequest(object sender, EventArgs e)

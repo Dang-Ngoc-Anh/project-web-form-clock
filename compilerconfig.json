@@ -6,5 +6,9 @@
   {
     "outputFile": "Asset/css/TrangConChiTiet.css",
     "inputFile": "Asset/css/TrangConChiTiet.scss"
+  },
+  {
+    "outputFile": "Asset/css/cart.css",
+    "inputFile": "Asset/css/cart.scss"
   }
 ]

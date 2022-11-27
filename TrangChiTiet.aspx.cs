@@ -13,6 +13,7 @@ namespace BTL_LTW_DONG_HO
         protected void Page_Load(object sender, EventArgs e)
         {
             string id = Request.QueryString.Get("id");
+            string sum = Request.QueryString.Get("amount");
 
             if (id != null)
             {
@@ -28,12 +29,51 @@ namespace BTL_LTW_DONG_HO
                     ListViewProductinformation.DataSource = Productinformation;
                     ListViewProductinformation.DataBind();
                 }
+
+                if (Request.Cookies["cart"] == null)
+                {
+                    Response.Cookies["cart"].Value = $"{id},";
+                    Response.Cookies["cart"].Expires = DateTime.Now.AddDays(14);
+                }
+                else
+                {
+
+                    //Store cookies by productID, example: 1,2,3,40,50,... 
+                    Response.Cookies["cart"].Value = Request.Cookies["cart"].Value + $"{id},";
+                    Response.Cookies["cart"].Expires = DateTime.Now.AddDays(14);
+                }
             }
             else
             {
                 Response.Redirect("Home.aspx");
             }
-
+            
+            
         }
+
+      /*  protected void AddToCartButton(object sender, EventArgs e)
+        {
+
+            
+                string id = Request.QueryString.Get("id");
+                //Store cart to cookies
+                if (Request.Cookies["cart"] == null)
+                {
+                    Response.Cookies["cart"].Value = $"{id},";
+                    Response.Cookies["cart"].Expires = DateTime.Now.AddDays(14);
+                }
+                else
+                {
+
+                    //Store cookies by productID, example: 1,2,3,40,50,... 
+                    Response.Cookies["cart"].Value = Request.Cookies["cart"].Value + $"{id},";
+                    Response.Cookies["cart"].Expires = DateTime.Now.AddDays(14);
+                }
+
+                //Refresh to update cart number
+                //Response.Redirect(Request.Url.ToString());
+            }*/
+    
+        
     }
 }

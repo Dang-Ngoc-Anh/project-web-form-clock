@@ -12,6 +12,7 @@
     <NameOfLastUsedPublishProfile>IISProfile</NameOfLastUsedPublishProfile>
     <ActiveDebugTarget>
     </ActiveDebugTarget>
+    <ProjectView>ShowAllFiles</ProjectView>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>

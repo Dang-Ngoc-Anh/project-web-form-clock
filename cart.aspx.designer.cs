@@ -11,25 +11,16 @@ namespace BTL_LTW_DONG_HO
 {
 
 
-    public partial class TrangChiTiet
+    public partial class cart
     {
 
         /// <summary>
-        /// ListViewProductinformation control.
+        /// ListViewCart control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListView ListViewProductinformation;
-
-        /// <summary>
-        /// themgiohang control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl themgiohang;
+        protected global::System.Web.UI.WebControls.ListView ListViewCart;
     }
 }

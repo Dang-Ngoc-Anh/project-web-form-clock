@@ -1,5 +1,6 @@
 ﻿
 body {
+    position: relative;
     background: #f5f5f5;
 
     .content-detail {
@@ -35,6 +36,7 @@ body {
             width: 700px;
             margin: 30px;
             height: 50rem;
+
             .header {
                 margin-left: -20px;
                 width: 100%;
@@ -139,6 +141,53 @@ body {
                     background: #f1e4e4;
                 }
             }
+        }
+    }
+
+
+
+    .pay {
+        position: absolute;
+        background: white;
+        margin: auto;
+        width: 50%;
+        height: 200px;
+        left: 25%;
+        border: 1px solid #2525;
+        border-radius: 5px;
+
+        .closes1 {
+            margin-top: 5px;
+            position: absolute;
+            right: 30px;
+            font-size: 1.5rem;
+            width: 40px;
+            height: 40px;
+            border: 1px solid #2525;
+            transition: 0.5s;
+            border-radius: 50%;
+        }
+
+        .closes1:hover {
+            background: var(--main-color);
+            color: white;
+        }
+
+        .des {
+            width: 99%;
+            margin: auto;
+            margin-top: 50px;
+            border-top: 2px solid #555;
+            font-size: 2rem;
+            display: flex;
+
+            label {
+                font-weight: bold;
+            }
+        }
+
+        .show1 {
+            visibility: hidden;
         }
     }
 

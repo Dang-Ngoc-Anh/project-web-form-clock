@@ -12,7 +12,7 @@ namespace BTL_LTW_DONG_HO
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            List<Product> ProductList = (List<Product>)Application["ProductList"];
+            List<Product> ProductList = (List<Product>)Application["Productlist"];
             List<Product> donghonam = new List<Product>();
 
             foreach(Product product in ProductList)
