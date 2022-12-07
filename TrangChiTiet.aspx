@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <link href="Asset/css/TrangConChiTiet.min.css" rel="stylesheet" />
+    <link href="./Asset/css/TrangConChiTiet.min.css" rel="stylesheet" />
     <div class="content-detail" >
         <asp:ListView ID="ListViewProductinformation" runat="server">
             <ItemTemplate>
@@ -41,13 +41,15 @@
                         </div>
                     </div>
                     <div class="add-cart">
-                        <button id="Btn1" class="btn-add-cart" type="submit" runat="server" onserverclick="Page_Load"> Thêm vào giỏ hàng</button>
+                        <form runat="server" method="post">
+                              <button id="Btn1" class="btn-add-cart" runat="server" onserverclick="Btn1_ServerClick" >Thêm vào giỏ hàng</button>
+                        </form>
                         <button class="btn-by" >Mua ngay</button>
                     </div>
                 </div>
             </ItemTemplate>
         </asp:ListView>
-                        <p  id="themgiohang" runat="server" style="color: red" ></p>
+           <p  id="themgiohang" runat="server" style="color: red" ></p>
  
     </div>
     <div class="pay">
@@ -57,8 +59,8 @@
             <label>Thanh toán : </label>
         </div>
     </div>
-    <script src="Asset/js/jquery-3.4.1.js"></script>
-    <script src="Asset/js/cart.js"></script>
+    <script src="./Asset/js/jquery-3.4.1.js"></script>
+    <script src="./Asset/js/cart.js"></script>
 </asp:Content>
 
 

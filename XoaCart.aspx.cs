@@ -11,12 +11,25 @@ namespace BTL_LTW_DONG_HO
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            
-            if (Request.Cookies["cart"] != null)
+            /*// lấy id
+            string deleteId = Request.QueryString.Get("id");
+            // lấy value cookie 
+
+            string valueCookie = Request.Cookies["cart"].Value;
+            if (valueCookie.Contains(deleteId)) ;
             {
-                Response.Cookies["cart"].Expires = DateTime.Now.AddDays(-1);
+                valueCookie = valueCookie.Replace(valueCookie, valueCookie.Remove(0, deleteId.Length));
+                Request.Cookies["cart"].Value = valueCookie;
                 Response.Redirect("cart.aspx");
-            }
+            }*/
+            string id = Request.QueryString.Get("id");
+            string DeleteID = id + ",";
+            string cartCookies = Request.Cookies["cart"].Value;
+            int posCookies = cartCookies.IndexOf(DeleteID);
+            string SetCookies = cartCookies.Remove(posCookies, DeleteID.Length);
+            Response.Cookies["cart"].Value = SetCookies;
+            Response.Cookies["cart"].Expires = DateTime.Now.AddDays(12);
+            Response.Redirect("cart.aspx");
         }
     }
 }

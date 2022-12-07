@@ -10,10 +10,11 @@ let btnCheckLogin = document.querySelector('.btnCheckLogin');
 let userName = document.querySelector('#userName');
 let passWord = document.querySelector('#passWord');
 
-
-console.log(userName.value , passWord.value , btnCheckLogin.value)
+/*
+console.log(userName.value , passWord.value , btnCheckLogin.value)*/
 btnCheckLogin.addEventListener("click", function (e) {
     if ((userName.value.trim() == "" && passWord.value.trim() == "")) {
         alert("Không được bỏ trống");
     }
 })
+

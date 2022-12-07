@@ -43,6 +43,10 @@
         cursor: pointer;
     }
 
+.formSearch {
+    flex: 5;
+    height: 30%;
+}
 .search {
     position: relative;
     flex: 5;
@@ -52,7 +56,9 @@
     place-items: center;
     cursor: pointer;
 }
-
+.search {
+    height: 100%;
+}
     .search .search-box {
         width: 100%;
         height: 100%;

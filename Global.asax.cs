@@ -3,6 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
@@ -23,8 +24,8 @@ namespace BTL_LTW_DONG_HO
             Application["ProductList"] = new List<Product>();
             List<Product> ProductList = new List<Product>();
             //Dong Ho Nam
-            ProductList.Add(new Product() { Id = "1", Images = "../Asset/img/1.png", Name = "Đồng hồ Orient ", Price = "500", Detail = "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm." });
-            ProductList.Add(new Product() { Id = "2", Images = "../Asset/img/2.png", Name = "Đồng hồ bently ", Price = "600", Detail = "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm." });
+            ProductList.Add(new Product() { Id = "1", Images = "../Asset/img/1.png", Name = "Đồng hồ Orient", Price = "500", Detail = "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm." });
+            ProductList.Add(new Product() { Id = "2", Images = "../Asset/img/2.png", Name = "Đồng hồ bently", Price = "600", Detail = "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm." });
             ProductList.Add(new Product() { Id = "3", Images = "../Asset/img/3.png", Name = "Đồng hồ ogivar", Price = "400", Detail = "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm." });
             ProductList.Add(new Product() { Id = "4", Images = "../Asset/img/4.png", Name = "Đồng hồ italy", Price = "700", Detail = "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm." });
             ProductList.Add(new Product() { Id = "5", Images = "../Asset/img/5.png", Name = "Đồng hồ hụy Sĩ", Price = "500", Detail = "Đồng hồ nam Casio MTP-1381L-9AVDF với kiểu dáng thời trang dành cho nam, kim chỉ và vạch số to rõ nổi bật trên mặt đồng hồ tròn to nam tính, phối cùng với dây đeo bằng da nâu lịch lãm." });
@@ -47,6 +48,20 @@ namespace BTL_LTW_DONG_HO
 
 
             Application["ProductList"] = ProductList;
+
+        }
+        void RegisterRoutes(RouteCollection routes)
+        {
+           
+
+            // default router
+            routes.MapPageRoute(
+                "Default",
+                "",
+                "~/Views/Home.aspx"
+            );
+
+
         }
 
         protected void Session_Start(object sender, EventArgs e)

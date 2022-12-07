@@ -13,20 +13,7 @@ namespace BTL_LTW_DONG_HO
         protected void Page_Load(object sender, EventArgs e)
         {
 
-                List<Product> ProductList = (List<Product>)Application["ProductList"];
-                List<Product> donghonam = new List<Product>();
-
-                foreach (Product product in ProductList)
-                {
-                    string id = product.Id;
-                    if (id == "1" || id == "2" || id == "3" || id == "4" || id == "5" || id == "6" || id == "7")
-                    {
-                        donghonam.Add(product);
-                    }
-                }
-
-                DongHoNam1.DataSource = donghonam;
-                DongHoNam1.DataBind();
+             
                 if (IsPostBack)
             {
                 string email = Request.Form.Get("nameS");

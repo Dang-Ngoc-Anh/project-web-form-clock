@@ -15,12 +15,12 @@
 
     <!--Wrap per contain*@ -->
 
-    <div class="contain-wrapper">
+    <div class="contain-wrapper" id="contain1">
         <div class="flex-box">
             <div class="product">
                 <a href="">
                     <div class="wrap-img">
-                        <img src="~/Asset/img/2.png" />
+                        <img src="/Asset/img/2.png" />
                     </div>
                     <div class="wrap-text">
                         Đồng hồ nam
@@ -30,26 +30,27 @@
         </div>
     </div>
 
+    
     <!--product item-->
-
     <div class="product-link">
         <label style="font-weight: bold; font-size: 1.5rem; margin-left: 20px">Sản phẩm bán chạy</label>
         <div class="product-box">
-            <div class="product-box-item">
+                     <div class="product-box-item">
                 <a href="">
                     <div class="product-img">
-                        <img src="/Asset/img/10.png" />
+                        <img src="" />
                     </div>
                 </a>
                 <a href="">
                     <div class="product-des">
-                        <div class="title">Đồng hồ nam</div>
-                        <div class="price">
-                            5$ <i class="fa-solid fa-cart-shopping"></i>
-                        </div>
+                        <div class="title"></div>
+                        <button class="price" >
+                            $ <i class="fa-solid fa-cart-shopping"></i>
+                        </button>
                     </div>
                 </a>
             </div>
         </div>
     </div>
+
 </asp:Content>

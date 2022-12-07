@@ -1,4 +1,3 @@
-
 let sidebarToggle = document.querySelector(".sidebar-toggle");
 let sidebarClose = document.querySelector(".sidebar .fa-close");
 let showSideBar = document.querySelector(".sidebar");
@@ -14,8 +13,8 @@ sidebarToggle.addEventListener("click", function () {
 
 sidebarClose.addEventListener("click" , function(){
     showSideBar.classList.remove("show-sidebar")
-
 });
+
 
 
 

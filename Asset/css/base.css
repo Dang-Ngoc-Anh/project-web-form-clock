@@ -49,7 +49,7 @@
     display: block;
   }
   
-  h1,
+/*  h1,
   h2,
   h3,
   h4 {
@@ -58,7 +58,7 @@
     line-height: 1.25;
     margin-bottom: 0.75rem;
     font-family: var(--ff-primary);
-  }
+  }*/
   h1 {
     font-size: 3rem;
   }

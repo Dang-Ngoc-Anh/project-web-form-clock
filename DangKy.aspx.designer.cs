@@ -24,6 +24,15 @@ namespace BTL_LTW_DONG_HO
         protected global::System.Web.UI.WebControls.ListView DongHoNam1;
 
         /// <summary>
+        /// f2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlForm f2;
+
+        /// <summary>
         /// btn_error control.
         /// </summary>
         /// <remarks>

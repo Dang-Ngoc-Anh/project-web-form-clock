@@ -1,5 +1,4 @@
 ﻿
-
 const arrThuongHieu = [
     {
         id: 1,
@@ -166,5 +165,6 @@ function displayProductItem(itemProduct) {
     displayProduct = displayProduct.join("");
     productBox.innerHTML = displayProduct;
 }
+
 
 displayProductItem(arrThuongHieu);

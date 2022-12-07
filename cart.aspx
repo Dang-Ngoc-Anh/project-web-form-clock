@@ -1,10 +1,9 @@
-﻿<%@ Page Title="Thanh toán" Language="C#" MasterPageFile="~/Site2.Master" AutoEventWireup="true" CodeBehind="cart.aspx.cs" Inherits="BTL_LTW_DONG_HO.cart" %>
+﻿<%@ Page Title="Thanh toán" Language="C#" MasterPageFile="~/Site1.Master" AutoEventWireup="true" CodeBehind="cart.aspx.cs" Inherits="BTL_LTW_DONG_HO.cart" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <link href="Asset/css/carts.css" rel="stylesheet" />
-
+    <link href="./Asset/css/carts.css" rel="stylesheet" />
     <div class="contain-cart" style="z-index: 10;">
         <h1>Shopping Cart</h1>
 
@@ -35,12 +34,11 @@
                             <input type="number" value="1" min="1">
                         </div>
                         <div class="products-removal">
-                            <a href="XoaCart.aspx" runat="server">
-                                <button class="remove-products">
+                            <a href="XoaCart.aspx?id=<%# Eval("Id") %>">
+                                 <button class="remove-products" runat="server" type="button" onserverclick="Unnamed_ServerClick">
                                     Remove
                                 </button>
                             </a>
-
                         </div>
                         <div class="products-line-price">0</div>
                     </div>
@@ -71,6 +69,6 @@
 
         </div>
     </div>
-    <script src="Asset/js/jquery-3.4.1.js"></script>
-    <script src="Asset/js/bymony.js"></script>
+    <script src="./Asset/js/jquery-3.4.1.js"></script>
+    <script src="./Asset/js/bymony.js"></script>
 </asp:Content>

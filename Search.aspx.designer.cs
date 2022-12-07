@@ -11,34 +11,25 @@ namespace BTL_LTW_DONG_HO
 {
 
 
-    public partial class DangNhap
+    public partial class Search
     {
 
         /// <summary>
-        /// DongHoNam1 control.
+        /// head__text control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListView DongHoNam1;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl head__text;
 
         /// <summary>
-        /// f3 control.
+        /// list__search control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlForm f3;
-
-        /// <summary>
-        /// stringErr control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::System.Web.UI.HtmlControls.HtmlGenericControl stringErr;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl list__search;
     }
 }

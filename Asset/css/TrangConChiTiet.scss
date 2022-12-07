@@ -112,7 +112,7 @@ body {
 
             .add-cart {
                 margin-top: 30px;
-
+                display: flex;
                 button {
                     font-size: 1.3rem;
                     padding: 0.7rem;
@@ -121,11 +121,14 @@ body {
                     transition: 0.5s;
                 }
 
-                .btn-add-cart {
-                    background: #fefafa;
-                    color: var(--main-color);
-                    border: 1px solid var(--main-color);
+                form {
+                    .btn-add-cart {
+                        background: #fefafa;
+                        color: var(--main-color);
+                        border: 1px solid var(--main-color);
+                    }
                 }
+
 
                 .btn-by {
                     background: var(--main-color);
@@ -155,6 +158,7 @@ body {
         left: 25%;
         border: 1px solid #2525;
         border-radius: 5px;
+        display: none;
 
         .closes1 {
             margin-top: 5px;

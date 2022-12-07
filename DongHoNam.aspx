@@ -3,7 +3,7 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <link href="Asset/css/DongHoNam.css" rel="stylesheet" />
+    <link href="./Asset/css/DongHoNam.css" rel="stylesheet" />
      <!--product item-->
         <div class="product-link">
                <label style="font-weight: bold; font-size: 1.5rem; margin-left: 20px">Sản phẩm bán chạy</label>

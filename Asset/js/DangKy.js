@@ -1,4 +1,4 @@
-﻿const btncloseSignUp = document.querySelector(".fa-closeSignUp");
+﻿let btncloseSignUp = document.querySelector(".fa-closeSignUp");
 let formSignUp = document.querySelector(".from-signUp");
 
 btncloseSignUp.addEventListener("click", function () {

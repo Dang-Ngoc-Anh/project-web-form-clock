@@ -3,9 +3,9 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    <link href="Asset/css/acount.css" rel="stylesheet" />
-    <link href="Asset/css/DongHoNam.css" rel="stylesheet" />
-     <!--product item-->
+    <link href="./Asset/css/acount.css" rel="stylesheet" />
+    <link href="./Asset/css/DongHoNam.css" rel="stylesheet" />
+     <!--product item
         <div class="product-link">
                <label style="font-weight: bold; font-size: 1.5rem; margin-left: 20px">Sản phẩm bán chạy</label>
             <div class="product-box">
@@ -27,9 +27,9 @@
                 </ItemTemplate>
             </asp:ListView>
               </div>
-        </div>
+        </div>-->
     <!-- Đăng nhập-->
-    <form action="DangNhap.aspx" runat="server" method="post">
+    <form action="DangNhap.aspx" runat="server" method="post" id="f3">
         <div class="from-login">
             <div class="register">
                 <i class="fa-sharp fa-solid fa-close fa-closeLogin "></i>
@@ -48,5 +48,5 @@
             </div>
         </div>
     </form>
-    <script src="Asset/js/DangNhap.js"></script>
+    <script src="./Asset/js/DangNhap.js"></script>
 </asp:Content>

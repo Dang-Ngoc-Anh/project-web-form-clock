@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BTL_LTW;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -12,9 +13,14 @@ namespace BTL_LTW_DONG_HO
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            /* Xu ly Login , Sign up*/
+            List<Product> ProductList = (List<Product>)Application["Productlist"];
+            List<Product> donghonam = new List<Product>();
 
-
+            foreach (Product product in ProductList)
+            {
+                string id = product.Id;
+                    donghonam.Add(product);
+            }
         }
     }
 }

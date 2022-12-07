@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <!-- bananer-->
-    <link href="Asset/css/GioiThieu.min.css" rel="stylesheet" />
+    <link href="./Asset/css/GioiThieu.min.css" rel="stylesheet" />
     <div class="bananer">
         <div class="bananer-img">
             <img class="imgs" src="/Asset/img/bananer1.jpg" />

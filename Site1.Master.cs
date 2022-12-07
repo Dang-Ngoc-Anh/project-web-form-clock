@@ -20,5 +20,8 @@ namespace BTL_LTW_DONG_HO
                 title.InnerText = times;
             
         }
+
+      
     }
+
 }
