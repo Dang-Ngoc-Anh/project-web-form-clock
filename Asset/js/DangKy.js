@@ -83,7 +83,7 @@ btnSignUp.addEventListener('click', function (e) {
     /*let b4 = checkLengthErr(conFirmPassWord, 4, 10);*/
 
     if (b1 == 1) e.preventDefault();
-
+    else if (b2 == 1) e.preventDefault();
 
 })
 
