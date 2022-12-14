@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <link href="./Asset/css/carts.css" rel="stylesheet" />
-    <div class="contain-cart" style="z-index: 10;">
+    <div class="contain-cart">
         <h1>Shopping Cart</h1>
 
         <div class="shopping-cart">

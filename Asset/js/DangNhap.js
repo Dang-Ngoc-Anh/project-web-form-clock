@@ -13,8 +13,15 @@ let passWord = document.querySelector('#passWord');
 /*
 console.log(userName.value , passWord.value , btnCheckLogin.value)*/
 btnCheckLogin.addEventListener("click", function (e) {
-    if ((userName.value.trim() == "" && passWord.value.trim() == "")) {
-        alert("Không được bỏ trống");
+    let cnt = 0;
+    if ((userName.value.trim() == "")) {
+        alert("Email không được bỏ trống");
+        cnt++;
     }
+    else if (passWord.value.trim() == "") {
+        alert("Bạn chưa nhập mật khẩu");
+        cnt++;
+    }
+
 })
 

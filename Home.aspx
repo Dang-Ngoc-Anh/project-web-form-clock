@@ -30,7 +30,7 @@
         </div>
     </div>
 
-    
+
     <!--product item-->
     <div class="product-link">
         <label style="font-weight: bold; font-size: 1.5rem; margin-left: 20px">Sản phẩm bán chạy</label>
@@ -52,5 +52,5 @@
             </div>
         </div>
     </div>
-
+    <script src="./Asset/js/homeIndex.js"></script>
 </asp:Content>

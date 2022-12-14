@@ -28,27 +28,27 @@
             </asp:ListView>
               </div>
         </div> -->
-    <form action="DangKy.aspx" method="post" runat="server" id="f2">
+    <form action="DangKy.aspx" method="post" runat="server"  id="f2" class="form">
         <div class="from-signUp">
             <div class="register ">
                 <i class="fa-sharp fa-solid fa-close  fa-closeSignUp"></i>
                 <h3>SIGN UP</h3>
                 <div class="control">
-                    <input type="email" placeholder="Use name" id="useName" name="nameS">
+                    <input type="email" placeholder="Use name" class="useName" name="nameS">
                     <small></small>
                 </div>
 
                 <div class="control">
-                    <input type="password" placeholder="Password" id="passWord" name="passWordS">
+                    <input type="password" placeholder="Password" class="passWord" name="passWordS">
                     <small></small>
                 </div>
                 <div class="control">
-                    <input type="password" placeholder="Confirm password" id="ConfirmpassWord" name="ConfirmpassWordS">
+                    <input type="password" placeholder="Confirm password" class="ConfirmpassWord" name="ConfirmpassWordS">
                     <small></small>
                 </div>
                 <p runat="server" id="btn_error" style="color: red"></p>
                 <div class="sccess">
-                    <button type="submit" class="btnSignUp">SIGN UP</button>
+                    <button class="btnSignUp" runat="server" >SIGN UP</button>
                 </div>
             </div>
         </div>

@@ -45,7 +45,7 @@
 
 .formSearch {
     flex: 5;
-    height: 30%;
+    height: 100%;
 }
 .search {
     position: relative;
@@ -57,7 +57,7 @@
     cursor: pointer;
 }
 .search {
-    height: 100%;
+    height: 30%;
 }
     .search .search-box {
         width: 100%;
@@ -74,14 +74,13 @@
 
     .search .search-btn {
         position: absolute;
-        font-size: 1.6rem;
+        font-size: 1.7rem;
         background-color: transparent;
         color: #252522;
         text-align: center;
         top: 0;
         right: 0;
         width: 10%;
-        height: 100%;
         transition: 0.5s;
         border-radius: 4px;
         background-color: #5555;
@@ -146,7 +145,6 @@
 .cart {
     flex: 0.5;
     height: 3rem;
-    margin-left: 2rem;
 }
 
     .cart .fa-cart-shopping {
@@ -415,7 +413,6 @@ p i{
     }
 
     .contain .search {
-        height: 30%;
         margin-top: 35px;
     }
 
@@ -462,9 +459,10 @@ p i{
         width: 40%;
     }
 
-    .cart {
-        /* display: none; */
-    }
+        .cart {
+          
+            margin-right: 4rem;
+        }
 }
 
 @media screen and (max-width:800px) {
@@ -474,6 +472,12 @@ p i{
 
     .login .btn {
         width: 80px;
+    }
+
+
+
+    .search .search-btn {
+        width: 16%;
     }
 }
 
