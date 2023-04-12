@@ -2164,6 +2164,7 @@
     <Content Include="Global.asax" />
     <Content Include="Home.aspx" />
     <Content Include="Search.aspx" />
+    <Content Include="ThaydoiPass.aspx" />
     <Content Include="ThuongHieu.aspx" />
     <Content Include="TrangChiTiet.aspx" />
     <Content Include="Web.config" />
@@ -2246,6 +2247,13 @@
     </Compile>
     <Compile Include="Site2.Master.designer.cs">
       <DependentUpon>Site2.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ThaydoiPass.aspx.cs">
+      <DependentUpon>ThaydoiPass.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ThaydoiPass.aspx.designer.cs">
+      <DependentUpon>ThaydoiPass.aspx</DependentUpon>
     </Compile>
     <Compile Include="ThuongHieu.aspx.cs">
       <DependentUpon>ThuongHieu.aspx</DependentUpon>

@@ -10,8 +10,8 @@ let btnCheckLogin = document.querySelector('.btnCheckLogin');
 let userName = document.querySelector('#userName');
 let passWord = document.querySelector('#passWord');
 
-/*
-console.log(userName.value , passWord.value , btnCheckLogin.value)*/
+
+console.log(userName.value , passWord.value , btnCheckLogin.value)
 btnCheckLogin.addEventListener("click", function (e) {
     let cnt = 0;
     if ((userName.value.trim() == "")) {

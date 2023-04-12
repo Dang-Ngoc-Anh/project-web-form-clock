@@ -12,17 +12,17 @@ namespace BTL_LTW_DONG_HO
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            int dem = 0;
             string valueSearch = Request.QueryString["valueSearch"];
             if (string.IsNullOrEmpty(valueSearch))
                 valueSearch = "";
             valueSearch = valueSearch.Trim();
-            head__text.InnerText = $"Kết quả tìm kiếm :{valueSearch}";
 
             List<Product> DongHo = (List<Product>)Application["Productlist"];
-
+            List<Product> DongHo1 = (List<Product>)Application["Productlist"];
             string html = "";
-            DongHo = DongHo.FindAll(x => x.Name.ToLower().Contains(valueSearch.ToLower()));
+
+            DongHo = DongHo.FindAll(x => x.Name.ToLower().Contains(valueSearch.ToLower()) || x.Price.Contains(valueSearch.ToString()));
             DongHo.ForEach(item =>
             {
                 html += $@"
@@ -40,9 +40,12 @@ namespace BTL_LTW_DONG_HO
                        </a>
          </div>";
             });
+
             if (html == "")
                 html = "Không Tìm Thấy Tên Sản Phẩm";
             list__search.InnerHtml = html;
+            head__text.InnerText = $"Kết quả tìm kiếm :{valueSearch} , {dem}";
+
         }
     }
 }

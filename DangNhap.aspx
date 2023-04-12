@@ -45,6 +45,11 @@
                 <div class="sccess">
                     <button type="submit" runat="server" class="btnCheckLogin">Login</button>
                 </div>
+                 <div class="change-passWorld">
+                    <button type="submit" runat="server" class="btnchange-passWorld" id="chanpassworld">
+                        <a href="ThaydoiPass.aspx">Thay Dổi Pass    </a>
+                    </button>
+                </div>
             </div>
         </div>
     </form>

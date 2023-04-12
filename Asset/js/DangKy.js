@@ -80,7 +80,7 @@ btnSignUp.addEventListener('click', function (e) {
      let  b1 = checkValueEmpty([useName, passWord, conFirmPassWord]);
      let b2 = checkEmail(useName);
      let b3 = checkLengthErr(passWord, 4, 10);
-    /*let b4 = checkLengthErr(conFirmPassWord, 4, 10);*/
+    let b4 = checkLengthErr(conFirmPassWord, 4, 10);
 
     if (b1 == 1) e.preventDefault();
     else if (b2 == 1) e.preventDefault();

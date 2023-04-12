@@ -75,7 +75,7 @@
         visibility: hidden;
     }
 
-.sccess button {
+.sccess button, .btnchange-passWorld {
     margin-top: 30px;
     width: 60%;
     height: 50px;

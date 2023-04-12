@@ -57,3 +57,123 @@ D:\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.CoreCompileInputs.ca
 D:\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.CopyComplete
 D:\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.dll
 D:\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.pdb
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.AssemblyReference.cache
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.CoreCompileInputs.cache
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.pdb
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\BTL_LTW_DONG_HO.dll.config
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\BTL_LTW_DONG_HO.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\BTL_LTW_DONG_HO.pdb
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csc.exe
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csc.exe.config
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csc.rsp
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csi.exe
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csi.exe.config
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csi.rsp
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\desktop.ini
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.AppContext.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Console.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Globalization.Calendars.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.Compression.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Net.Http.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Net.Sockets.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.ValueTuple.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.XPath.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\vbc.exe
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\vbc.exe.config
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\vbc.rsp
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\VBCSCompiler.exe
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\Năm2\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.CopyComplete
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\BTL_LTW_DONG_HO.dll.config
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\BTL_LTW_DONG_HO.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\BTL_LTW_DONG_HO.pdb
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csc.exe
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csc.exe.config
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csc.rsp
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csi.exe
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csi.exe.config
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\csi.rsp
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\desktop.ini
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.Managed.Core.targets
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.AppContext.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Collections.Immutable.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Console.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Globalization.Calendars.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.Compression.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.FileSystem.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Net.Http.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Net.Sockets.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Reflection.Metadata.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.ValueTuple.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.XmlDocument.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.XPath.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\vbc.exe
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\vbc.exe.config
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\vbc.rsp
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\VBCSCompiler.exe
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\roslyn\VBCSCompiler.exe.config
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.AssemblyReference.cache
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.CoreCompileInputs.cache
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.csproj.CopyComplete
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.dll
+G:\My Drive\Năm2\Kỳ 1\Lập trình web\BTL_LTW\BTL_LTW_DONG_HO\obj\Debug\BTL_LTW_DONG_HO.pdb
