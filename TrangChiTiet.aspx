@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <link href="./Asset/css/TrangConChiTiet.min.css" rel="stylesheet" />
     <div class="content-detail" >
-        <asp:ListView ID="ListViewProductinformation" runat="server">
+        <ListView ID="ListViewProductinformation" runat="server">
             <ItemTemplate>
                 <div class="content-left">
                     <div class="item-img">
@@ -48,13 +48,11 @@
                     </div>
                 </div>
             </ItemTemplate>
-        </asp:ListView>
+        </ListView>
            <p  id="themgiohang" runat="server" style="color: red" ></p>
  
     </div>
     <div class="pay">
-       <!-- <button class="closes1">
-        </button>-->
         <div class="des">
             <label>Thanh toán : </label>
         </div>

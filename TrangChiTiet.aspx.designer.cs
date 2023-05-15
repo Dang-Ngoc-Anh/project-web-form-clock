@@ -21,7 +21,16 @@ namespace BTL_LTW_DONG_HO
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.ListView ListViewProductinformation;
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl ListViewProductinformation;
+
+        /// <summary>
+        /// Btn1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlButton Btn1;
 
         /// <summary>
         /// themgiohang control.

@@ -8,7 +8,7 @@
         <div class="product-link">
                <label style="font-weight: bold; font-size: 1.5rem; margin-left: 20px">Sản phẩm bán chạy</label>
             <div class="product-box">
-            <asp:ListView ID="DongHoNam1" runat="server">
+            <ListView ID="DongHoNam1" runat="server">
                 <ItemTemplate>
                         <div class="product-box-item">
                             <a href="TrangChiTiet.aspx?id=<%# Eval("Id")%> ">
@@ -24,7 +24,7 @@
                             </a>
                         </div>
                 </ItemTemplate>
-            </asp:ListView>
+            </ListView>
               </div>
         </div>
 </asp:Content>

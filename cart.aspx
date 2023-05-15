@@ -19,7 +19,7 @@
             </div>
 
 
-            <asp:ListView ID="ListViewCart" runat="server">
+            <ListView ID="ListViewCart" runat="server">
                 <ItemTemplate>
                     <div class="products">
                         <div class="products-image">
@@ -43,7 +43,7 @@
                         <div class="products-line-price">0</div>
                     </div>
                 </ItemTemplate>
-            </asp:ListView>
+            </ListView>
 
 
             <div class="totals">
